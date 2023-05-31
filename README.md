@@ -2,6 +2,7 @@
 <br>
 To actually start it you need to get these files in your pc, open it in VS Code, open the terminal.
 Dont forget CD ReactApp in the terminal, before npm start.
+<br>
 ### `npm start`
 
 Runs the app in the development mode.\
